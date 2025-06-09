@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gill
 
-Boston-born Army Veteran, policy analyst, and licensed attorney with a mission-driven approach to transforming policy into practical, data-informed systems. With over 20 years of combined military and civilian federal service, I specialize in toxic exposure science, administrative law, process modernization, veterans advocacy, and public-interest research.
+Boston-raised Army Veteran, policy analyst, and licensed attorney with a mission-driven approach to transforming policy into practical, data-informed systems. With over 20 years of combined military and civilian federal service, I specialize in toxic exposure science, administrative law, process modernization, veterans advocacy, and public-interest research.
 
 ## 🧠 What I'm Learning
 I’m in the early stages of learning Git and GitHub, building foundational skills through personal projects. My goal is to document what I build as I explore how technology can support legal and regulatory clarity, data-driven decision-making, and operational efficiency. This space is where I experiment, iterate, and organize tools that help bridge the gap between law, policy, and analytics.
