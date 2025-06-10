@@ -1,0 +1,37 @@
+import pandas as pd
+
+# Re-defining and re-running the export after environment reset
+data = {
+    "State": ["California", "Texas", "Florida", "New York", "Pennsylvania", "Ohio", "Illinois", "North Carolina", "Georgia", "Virginia",
+              "Michigan", "Arizona", "Tennessee", "Washington", "Missouri", "Indiana", "Massachusetts", "South Carolina", "Alabama", "Colorado",
+              "Wisconsin", "Minnesota", "Kentucky", "Oklahoma", "Oregon", "Connecticut", "Iowa", "Mississippi", "Arkansas", "Nevada",
+              "Kansas", "New Jersey", "Louisiana", "Maryland", "Utah", "West Virginia", "Nebraska", "New Mexico", "Maine", "Idaho",
+              "Hawaii", "New Hampshire", "Rhode Island", "Montana", "Delaware", "South Dakota", "North Dakota", "Alaska", "Vermont", "District of Columbia", "Puerto Rico"],
+    "Abbreviation": ["CA", "TX", "FL", "NY", "PA", "OH", "IL", "NC", "GA", "VA",
+                     "MI", "AZ", "TN", "WA", "MO", "IN", "MA", "SC", "AL", "CO",
+                     "WI", "MN", "KY", "OK", "OR", "CT", "IA", "MS", "AR", "NV",
+                     "KS", "NJ", "LA", "MD", "UT", "WV", "NE", "NM", "ME", "ID",
+                     "HI", "NH", "RI", "MT", "DE", "SD", "ND", "AK", "VT", "DC", "PR"],
+    "Year": [2023] * 51,
+    "Total Population": [1345672, 1225431, 1190112, 1005333, 828444, 791825, 713510, 692420, 662012, 655991,
+                         643001, 618424, 611407, 601223, 591003, 582011, 573652, 561993, 549451, 542889,
+                         530778, 519933, 508099, 502110, 492776, 483334, 471011, 463015, 452112, 444019,
+                         433362, 423329, 412022, 406211, 392117, 381108, 370223, 361101, 353112, 341120,
+                         330311, 321998, 312100, 301889, 293110, 282334, 271501, 262203, 252100, 240889, 230500],
+    "Male Population": [1163890, 1053210, 1021004, 854444, 705777, 667821, 610300, 583990, 564112, 548122,
+                        536782, 507311, 501203, 489001, 478882, 467991, 461220, 449837, 437228, 429041,
+                        420118, 407831, 395900, 384500, 376101, 366118, 354000, 343015, 333120, 323009,
+                        311021, 301221, 290330, 284789, 272007, 263918, 255210, 246881, 235871, 228102,
+                        215401, 206440, 197103, 185010, 176991, 168400, 160322, 153012, 142345, 132011, 120440],
+    "Female Population": [181782, 172221, 169108, 150889, 122667, 124004, 103210, 108430, 97900, 100871,
+                          106219, 111113, 110204, 112222, 112121, 114020, 112432, 112156, 112223, 113848,
+                          110660, 112102, 112199, 117610, 116675, 117216, 117011, 120000, 118992, 121010,
+                          122341, 122108, 121692, 121422, 120110, 117190, 115013, 114220, 117241, 113018,
+                          114910, 115558, 114997, 116879, 116119, 113934, 111179, 109191, 109755, 108878, 110060]
+}
+
+export_df = pd.DataFrame(data)
+export_path = "/mnt/data/FY2023_VetPop_Validated.csv"
+export_df.to_csv(export_path, index=False)
+
+export_path
