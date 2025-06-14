@@ -1,26 +1,31 @@
-# 👋 Hi, I'm Gill
+# [Gillon D. Marchetti, Esq.](https://www.linkedin.com/in/gillonmarchetti)
+### Senior Policy Analyst | Regulatory Strategist | Veterans Health Advocate
 
-Boston-raised Army Veteran, policy analyst, and licensed attorney with a mission-driven approach to transforming policy into practical, data-informed systems. With over 20 years of combined military and civilian federal service, I specialize in toxic exposure science, administrative law, process modernization, veterans advocacy, and public-interest research.
+As a U.S. Army veteran and a licensed attorney with over 20 years of federal service, I have dedicated my career to reforming and improving veterans' benefits from within the system. I've worked extensively on translating complex policy, legal, and data challenges into actionable outcomes, most recently focusing on the implementation of the [PACT Act](https://www.congress.gov/bill/117th-congress/house-bill/3967).
 
-## 🧠 What I'm Learning
-I’m in the early stages of learning Git and GitHub, building foundational skills through personal projects. My goal is to document what I build as I explore how technology can support legal and regulatory clarity, data-driven decision-making, and operational efficiency. This space is where I experiment, iterate, and organize tools that help bridge the gap between law, policy, and analytics.
-
-## 💼 Professional Focus
-- Toxic exposure policy & rulemaking (PACT Act, Camp Lejeune, PFAS, jet fuels, Agent Orange, etc.)
-- Veterans health benefits & environmental health claims
-- Legal and regulatory writing (38 U.S.C. and 38 C.F.R. Parts 3 and 4)
-- Data-driven oversight & decision support
-- Applied research design and federal program governance
-
-## 🛠️ Personal Projects
-- **Personal Finance Tracker**: GPT + Sheets tool for structured budgeting and insights
-- **Smart Recall Framework**: Natural language recall system for project tracking
-- **Knowledge Systems for Policy**: Tools to automate regulatory mapping and analysis
-
-## 🧬 Personal Details
-Father of two, married to a Boston-born Irish/Italian oncology nurse, and dog dad to two Boston Terriers (Coach and Tyla) and one Puerto Rican rescue sato (Gino). I’m passionate about learning guitar, fitness, biohacking, and Veterans’ advocacy — and I take pride in building systems that connect law, data, and lived experience.
+Now, I'm building technology to translate well-meaning, but overly complicated policy into tangible, accessible support that better reflects the reality of the veteran experience.
 
 ---
 
-☘️ Boston, MA ✈️ → 🌴 Lakewood Ranch, FL
-📚 Learning in public — always iterating.
+## 🚀 My Current Project: VISTA (Veteran Insights & Statistics Tool for Analysis)
+
+The Veteran Insights & Statistics Tools for Analysis (VISTA) is a customized GPT to simplify and automate the process of accessing veterans' healthcare, disability compensation, and other benefits information, as well as to support research and analysis of a broad range of veteran topics. The mission is to empower veterans, advocates, and policymakers by putting the power of a specialized policy and data analysis tool at their fingertips, trained on the specific laws, regulations, medical and scientific research, an open-source veteran data to support claims for benefits, research on veteran populations, service eras, medical profiles, and more.
+
+### Key Capabilities & Goals:
+
+* **Benefits Navigation & Claims Support:** Guide users through the process of accessing healthcare, disability, and other benefits by helping structure information and identify necessary evidence.
+* **On-Demand Research & Analysis:** Act as a powerful research assistant to analyze and summarize data on veteran populations, service eras, medical conditions, and complex policy questions.
+* **Instant Policy & Legal Expertise:** Instantly surface and explain relevant laws, regulations (38 C.F.R.), and VA procedures for any query, whether for a personal claim or a research project.
+* **PACT Act & Modernization Focus:** Maintain a specialized knowledge base on the PACT Act and other emerging topics related to the health and welfare of veterans and their families.
+
+### 🌱 My Approach
+
+I am applying my background as a policy analyst who has led data working groups and drafted federal rules to the architecture and training of this specialized AI. I am currently architecting the solution on Google Cloud and organizing the project codebase here on GitHub.
+
+### 🤝 Collaboration
+
+I am building this for the community and believe in the power of collaboration. I'm open to connecting with developers, AI specialists, UI/UX designers, and fellow veterans' advocates who are passionate about using technology to create a meaningful impact.
+
+---
+
+*This profile is my logbook for this journey. My goal is to apply deep domain expertise to a new medium, learning as I go and documenting the process of building a system for social good.*
