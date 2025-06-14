@@ -1,5 +1,5 @@
 # [Gillon D. Marchetti, Esq.](https://www.linkedin.com/in/gillonmarchetti)
-### Senior Policy Analyst | Regulatory Strategist | Veterans Health Advocate
+### Senior Policy Analyst | Regulatory Strategist | Veterans Advocate
 
 As a U.S. Army veteran and a licensed attorney with over 20 years of federal service, I have dedicated my career to reforming and improving veterans' benefits from within the system. I've worked extensively on translating complex policy, legal, and data challenges into actionable outcomes, most recently focusing on the implementation of the [PACT Act](https://www.congress.gov/bill/117th-congress/house-bill/3967).
 
