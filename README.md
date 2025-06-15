@@ -1,31 +1,69 @@
-# [Gillon D. Marchetti, Esq.](https://www.linkedin.com/in/gillonmarchetti)
-### Senior Policy Analyst | Regulatory Strategist | Veterans Advocate
+# Gillon D. Marchetti, Esq.  
+**Senior Policy Analyst | Public Interest Technologist | Veterans Advocate**
 
-As a U.S. Army veteran and a licensed attorney with over 20 years of federal service, I have dedicated my career to reforming and improving veterans' benefits from within the system. I've worked extensively on translating complex policy, legal, and data challenges into actionable outcomes, most recently focusing on the implementation of the [PACT Act](https://www.congress.gov/bill/117th-congress/house-bill/3967).
-
-Now, I'm building technology to translate well-meaning, but overly complicated policy into tangible, accessible support that better reflects the reality of the veteran experience.
+As a senior policy analyst, licensed attorney, and U.S. Army veteran with over 20 years of federal service, I have dedicated my career to improving the delivery of benefits and services to Veterans. My recent work has focused on the implementation of the [PACT Act](https://www.va.gov/resources/the-pact-act-and-your-va-benefits/) and modernizing VA’s systems for toxic exposure adjudication, policy alignment, and oversight.
 
 ---
 
-## 🚀 My Current Project: VISTA (Veteran Insights & Statistics Tool for Analysis)
+## 🚀 Veteran Insights & Statistics Tool for Analysis (VISTA)
 
-The Veteran Insights & Statistics Tools for Analysis (VISTA) is a customized GPT to simplify and automate the process of accessing veterans' healthcare, disability compensation, and other benefits information, as well as to support research and analysis of a broad range of veteran topics. The mission is to empower veterans, advocates, and policymakers by putting the power of a specialized policy and data analysis tool at their fingertips, trained on the specific laws, regulations, medical and scientific research, an open-source veteran data to support claims for benefits, research on veteran populations, service eras, medical profiles, and more.
+At the core of this initiative is the **Veteran Insights & Statistics Tool for Analysis (VISTA)**.  
+VISTA is the prototype name for a customized AI-powered veteran-support tool designed to simplify and automate access to veterans’ healthcare, disability compensation, and related benefits data. It also supports in-depth research and analysis of policy issues, Veteran populations, and health trends. Think of it as an all-source AI-powered wiki for (almost) anything veteran-related.
 
-### Key Capabilities & Goals:
-
-* **Benefits Navigation & Claims Support:** Guide users through the process of accessing healthcare, disability, and other benefits by helping structure information and identify necessary evidence.
-* **On-Demand Research & Analysis:** Act as a powerful research assistant to analyze and summarize data on veteran populations, service eras, medical conditions, and complex policy questions.
-* **Instant Policy & Legal Expertise:** Instantly surface and explain relevant laws, regulations (38 C.F.R.), and VA procedures for any query, whether for a personal claim or a research project.
-* **PACT Act & Modernization Focus:** Maintain a specialized knowledge base on the PACT Act and other emerging topics related to the health and welfare of veterans and their families.
-
-### 🌱 My Approach
-
-I am applying my background as a policy analyst who has led data working groups and drafted federal rules to the architecture and training of this specialized AI. I am currently architecting the solution on Google Cloud and organizing the project codebase here on GitHub.
-
-### 🤝 Collaboration
-
-I am building this for the community and believe in the power of collaboration. I'm open to connecting with developers, AI specialists, UI/UX designers, and fellow veterans' advocates who are passionate about using technology to create a meaningful impact.
+The mission is to empower veterans, advocates, and policymakers by providing an intelligent, specialized tool trained on relevant statutes, regulations, procedures, research, and open-source federal, state, and validated organizational datasets.
 
 ---
 
-*This profile is my logbook for this journey. My goal is to apply deep domain expertise to a new medium, learning as I go and documenting the process of building a system for social good.*
+## 🔍 Core Capabilities
+
+### Benefits Navigation & Claims Structuring  
+Guides users through VA's complex system by organizing relevant information and data, structuring evidence, and explaining entitlement pathways under current law in an accessible, easy-to-understand format.
+
+### On-Demand Research & Policy Analysis  
+Supports structured analysis of Veteran populations, exposure cohorts, medical conditions, and regulatory questions using federal data, regulatory logic, and historical archives to empower veteran advocates.
+
+### Legal & Regulatory Reference  
+Surfaces relevant provisions from 38 U.S.C., 38 C.F.R., the M21-1 Adjudications Procedures Manual, PACT Act provisions, and other legal precedent to support citable, evidence-based legal representation.
+
+### PACT Act & Exposure-Focused Knowledge Base  
+Maintains specialized domain knowledge on military environmental exposures, cohort-based “presumptive” medical conditions, and emerging post-deployment health concerns.
+
+---
+
+## 🌱 Development Approach
+
+I am applying my background as a policy analyst with expertise in federal veterans’ policy, VA institutional and data knowledge, and law to the development and training of this specialized AI. The solution is being built on Google Cloud, with the project codebase managed here on GitHub.
+
+This repository documents the development of VISTA, including its architecture, API specifications, prompt engineering, and supporting artifacts that will serve both technical and policy-facing use cases.
+
+---
+
+## 🤝 Collaboration & Vision
+
+This work is part of a broader initiative to modernize access to public services and self-advocacy through intelligent tools and simplified access to data. The enterprise platform will operate under:
+
+- 🌐 [veterananalytics.com](https://veterananalytics.com) – Core platform for analysis, advocacy, and AI tool access  
+- 📊 [veteranintel.org](https://veteranintel.org) – Research, publications, and policy insight  
+- 🧭 [vistaadvocacy.com](https://vistaadvocacy.com) – Public-facing resources for claims and toxic exposure support
+
+### Interested Stakeholders:
+- Veteran service professionals, veteran service organizations, and advocates  
+- Developers, designers, and data scientists  
+- Legal researchers and public interest technologists
+
+---
+
+## 📄 Legal Notices
+
+© 2025 Gillon D. Marchetti. All rights reserved.  
+*Note: “Veteran Insights & Statistics Tool for Analysis (VISTA)” is a working title. The final name may be updated prior to registration to avoid conflict with existing federal trademarks or organizational naming conventions.*
+
+**VISTA**, **VeteranAnalytics.com**, and related trademarks are proprietary to Gillon Marchetti. These names, concepts, and systems may not be used, copied, or redistributed without express written permission.
+
+All original content in this repository—including code, documentation, analytical methods, and decision-support logic—is protected under U.S. Copyright Law (Title 17, U.S. Code).
+
+This repository is shared for documentation, collaboration, and educational purposes only. Commercial reproduction or derivative use without prior authorization is prohibited.
+
+For licensing, trademark, or usage inquiries, contact: [MarcArmy2003@veterananalytics.com](mailto:MarcArmy2003@veterananalytics.com)
+
+
