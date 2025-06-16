@@ -8,9 +8,10 @@ As a senior policy analyst, licensed attorney, and U.S. Army veteran with over 2
 ## 🚀 Veteran Insights & Statistics Tool for Analysis (VISTA)
 
 At the core of this initiative is the **Veteran Insights & Statistics Tool for Analysis (VISTA)**.  
-VISTA is the prototype name for a customized AI-powered veteran-support tool designed to simplify and automate access to veterans’ healthcare, disability compensation, and related benefits data. It also supports in-depth research and analysis of policy issues, Veteran populations, and health trends. Think of it as an all-source AI-powered wiki for (almost) anything veteran-related.
 
-The mission is to empower veterans, advocates, and policymakers by providing an intelligent, specialized tool trained on relevant statutes, regulations, procedures, research, and open-source federal, state, and validated organizational datasets.
+VISTA is the prototype name for a customized, AI-powered veteran support tool designed to simplify and automate access to veterans’ healthcare, disability compensation, and related benefits data. It also supports in-depth research and analysis of policy issues, Veteran populations, and health trends. 
+
+The vision is to create an AI-augmented research and decision-support system that unifies veteran-related open-source data, simplifies claims guidance, curates veteran-specific scientific resources, and can relay complex policy infrastructure from a single, queryable knowledge platform. The mission is to empower veterans, advocates, and policymakers by providing an intelligent, specialized tool trained on relevant statutes, regulations, procedures, research, and open-source federal, state, and validated organizational datasets.
 
 ---
 
@@ -46,10 +47,27 @@ This work is part of a broader initiative to modernize access to public services
 - 📊 [veteranintel.org](https://veteranintel.org) – Research, publications, and policy insight  
 - 🧭 [vistaadvocacy.com](https://vistaadvocacy.com) – Public-facing resources for claims and toxic exposure support
 
-### Key Stakeholders:
-- Veterans, Veteran service professionals, veteran service organizations, and advocates  
-- Developers, designers, and data scientists  
-- Legal researchers and public interest technologists
+## 👥 Key Stakeholders
+
+This project serves and engages the following primary stakeholder groups:
+
+- **Veterans, Veteran Service Professionals, Veteran Service Organizations, and Advocates**  
+  End users and mission-driven partners focused on benefits access, justice, and service equity.
+
+- **Health Scientists, Epidemiologists, and Exposure Researchers**  
+  Subject matter experts from institutions such as VHA-HOME, WRIISC, NASEM, and NIH, who contribute to the scientific understanding of military exposures and long-term health outcomes.
+
+- **Developers, Designers, and Data Scientists**  
+  Technical contributors working to modernize veteran-serving infrastructure and analytics.
+
+- **Legal Researchers and Public Interest Technologists**  
+  Policy and civic tech experts advancing transparency, accountability, and systems change through lawful innovation.
+
+---
+
+## 🔧 Active Project Log
+
+- **VISTA Daily Log** – [Live development journal](https://github.com/MarcArmy2003/veteran-analytics/blob/main/docs/daily_log.md)
 
 ---
 
