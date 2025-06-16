@@ -46,8 +46,8 @@ This work is part of a broader initiative to modernize access to public services
 - 📊 [veteranintel.org](https://veteranintel.org) – Research, publications, and policy insight  
 - 🧭 [vistaadvocacy.com](https://vistaadvocacy.com) – Public-facing resources for claims and toxic exposure support
 
-### Interested Stakeholders:
-- Veteran service professionals, veteran service organizations, and advocates  
+### Key Stakeholders:
+- Veterans,Veteran service professionals, veteran service organizations, and advocates  
 - Developers, designers, and data scientists  
 - Legal researchers and public interest technologists
 
