@@ -47,7 +47,7 @@ This work is part of a broader initiative to modernize access to public services
 - 🧭 [vistaadvocacy.com](https://vistaadvocacy.com) – Public-facing resources for claims and toxic exposure support
 
 ### Key Stakeholders:
-- Veterans,Veteran service professionals, veteran service organizations, and advocates  
+- Veterans, Veteran service professionals, veteran service organizations, and advocates  
 - Developers, designers, and data scientists  
 - Legal researchers and public interest technologists
 
