@@ -34,7 +34,7 @@ Each repository contains:
 
 Track project-level activities and progress across all repositories:
 
-📘 **[View the Daily Log](https://github.com/MarcArmy2003/MarcArmy2003/blob/main/daily_log.md)**  
+📘 **[View the Daily Log](https://github.com/MarcArmy2003/valor-core/blob/main/docs/daily_log.md)**  
 
 These logs capture commit activities, infrastructure updates, architectural shifts, and documentation milestones across both the VALOR Core and Veteran Analytics front end.
 
