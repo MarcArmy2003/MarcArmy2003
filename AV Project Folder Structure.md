@@ -2,8 +2,6 @@
 
 ## Root Directory: `C:\AV USER MANUALS\`
 
-- `audiopheliac_av_inventory.md`
-- `All_AV_Documents_Tree.txt`
 - `AV_Manuals_Tree.txt`
 - `Optimized Multi-Room A_V & Music Streaming Setup Guide.pdf`
 
