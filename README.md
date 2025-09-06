@@ -2,7 +2,7 @@
 
 ## About the Project
 
-**Veteran Analytics** is a dual-repository, closed-source software initiative created and maintained by [Gillon Marchetti](https://www.linkedin.com/in/gillonmarchetti/), a U.S. Army veteran, federal policy analyst, and public interest technologist. The project, VALOR (Veteran Analysis, Legislation, and Operational Research), is designed to deliver secure, intelligent tools to transform how **veteran-related data, legislation, and policy are analyzed, managed, and understood**, starting with automated backend knowledge via the VALOR Core engine through an intuitive, user-facing interface via the Veteran Analytics website.
+**Veteran Analytics** is a dual-repository, closed-source software initiative created and maintained by [Gillon Marchetti](https://www.linkedin.com/in/gillonmarchetti/), a U.S. Army veteran, federal policy analyst, and public interest technologist. Veteran Analysis, Legislation, and Operational Research (VALOR) is a veteran-focused intelligence platform delivering advanced analytics, legislative insights, and operational research that empowers policy, advocacy, and benefits delivery, starting with automated backend knowledge via the VALOR Core engine through an intuitive, user-facing interface via the Veteran Analytics website.
 
 This repository serves as the centralized overview and daily development log for the project.
 
