@@ -1,4 +1,4 @@
-# 🪖 Veteran Analytics, LLC: Project Overview
+# 🪖 Veteran Analytics: Project Overview
 
 ## About the Project
 
