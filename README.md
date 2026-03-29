@@ -1,70 +1,19 @@
-# 🪖 Veteran Analytics: Project Overview
+# Gillon Marchetti
 
-## About the Project
+U.S. Army veteran, federal policy analyst, and founder of [Veteran Analytics LLC](https://github.com/VeteranAnalyticsLLC).
 
-**Veteran Analytics** is a dual-repository, closed-source software initiative created and maintained by [Gillon Marchetti](https://www.linkedin.com/in/gillonmarchetti/), a U.S. Army veteran, federal policy analyst, and public interest technologist. Veteran Analysis, Legislation, and Operational Research (VALOR) is a veteran-focused intelligence platform delivering advanced analytics, legislative insights, and operational research that empowers policy, advocacy, and benefits delivery, starting with automated backend knowledge via the VALOR Core engine through an intuitive, user-facing interface via the Veteran Analytics website.
+Building AI-powered tools for veteran benefits navigation, policy research, and advocacy.
 
-## Mission Statement
+## Active Projects
 
-VALOR exists to surface, contextualize, and interrogate exposure and benefits policy data so veterans and policymakers can understand—and challenge—the systems that govern veteran outcomes. The platform is designed to make complex policy, legislative, and operational information transparent, evidence-grounded, and accessible, enabling informed advocacy, accountability, and better decision-making beyond institutional boundaries.
+- **[VALOR AI](https://veterananalytics.com)** — A veteran benefits intelligence platform. Ask a question about your benefits, get an answer with the exact law, regulation, or policy behind it.
+- **[VA Combined Disability Calculator](https://app.veterananalytics.com/calculator)** — Interactive tool explaining VA math, bilateral factors, and compensation rates with regulatory citations.
 
-This repository serves as the centralized overview and daily development log for the project.
+## Connect
 
----
-
-## 🔧 Project Repositories
-
-| Component | Description |
-|---|---|
-| [`valor-core`](https://github.com/MarcArmy2003/valor-core) | Closed-source AI data engine and backend pipeline. |
-| [`veteran-analytics`](https://github.com/MarcArmy2003/veteran-analytics) | Front-end application for dashboards, search, and interface. |
+- 🌐 [veterananalytics.com](https://veterananalytics.com)
+- 📧 contact@veterananalytics.com
 
 ---
 
-## 📜 Legal Framework
-
-All components of Veteran Analytics are proprietary and protected under a custom closed-source license.
-No external contributions, forks, or redistributions are permitted.
-
-Each repository contains:
-
-- `LICENSE` — Closed-Source, proprietary terms of use
-- `TERMS.md` — Software usage conditions
-- `TRADEMARK.md` — Trademark usage rights and restrictions
-
----
-
-## 📈 Daily Development Log
-
-Track project-level activities and progress across all repositories:
-
-📘 **[View the Daily Log](https://github.com/MarcArmy2003/veteran-analytics-project-log/blob/main/daily_log.md)**
-
-These logs capture commit activities, infrastructure updates, architectural shifts, and documentation milestones across both the VALOR Core and Veteran Analytics front end.
-
----
-
-## 🔐 Status: Closed-Source Private Development
-
-This project is not accepting outside contributions and is not open source.
-To inquire about future business development, enterprise use, or licensing, please contact:
-
-📧 `MarcArmy2003@veterananalytics.com`
-
----
-
-## 🏛 Author
-
-**Gillon Marchetti**
-- Experience as a Senior Policy Analyst, U.S. Department of Veterans Affairs
-- Former U.S. Army Intelligence Sergeant (96B/35F)
-- Veteran technologist and regulatory strategist
-- [LinkedIn](https://www.linkedin.com/in/gillonmarchetti)
-
----
-
-### 📢 Disclaimer
-
-This is a personal project developed independently by Gillon Marchetti. It is not affiliated with, sponsored, or endorsed by the U.S. Department of Veterans Affairs or the United States government. All source materials used for analysis are either available in the public domain or have been obtained through lawful means such as the Freedom of Information Act (FOIA).
-
----
+*Veteran Analytics LLC is an independent company. It is not affiliated with or endorsed by the U.S. Department of Veterans Affairs.*
