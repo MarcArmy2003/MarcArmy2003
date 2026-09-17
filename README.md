@@ -15,16 +15,16 @@ veteran community. Ask a question about benefits, health, education, or housing
 and get an answer grounded in the statute, regulation, or policy it came from,
 with the source attached.
 
-Currently in beta. Built on a corpus of 20,000+ primary sources: U.S. Code, the
-C.F.R., the Federal Register, VA policy manuals, and case law from the Federal
-Circuit, CAVC, and the Board.
+For current availability and supported capabilities, visit the product site.
+Repository documentation is not a live service-status report.
 
-Also at rangelight.org:
+## Repository map
 
-- **Disability calculator** — combined ratings, the bilateral factor, and
-  current compensation rates, with the regulation behind each step
-- **Forms assistant** — guided completion of VA forms against the official PDFs
-- **Sources** — the full index of what the system reads, so you can check it
+This repository is my GitHub profile, not application source. Rangelight's
+organization home is [Veteran Analytics LLC](https://github.com/VeteranAnalyticsLLC).
+Other repositories on this account include independent prototypes, reference
+collections, and music projects; similar names do not make them copies of
+Rangelight.
 
 ## Background
 
@@ -46,3 +46,6 @@ sources. It is not legal, medical, or financial advice, and it does not file
 claims or represent anyone.*
 
 *Veterans Crisis Line: dial 988, then press 1, or text 838255.*
+
+*Repository-purpose review: September 17, 2026. No live feature or corpus-count
+verification is implied by this profile update.*
